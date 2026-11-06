@@ -53,4 +53,4 @@ Le script d'entraînement utilise une descente de gradient sur les données norm
 - `model.py` : chargement des données, normalisation, entraînement et prédiction
 - `train.py` : point d'entrée de l'entraînement
 - `predict.py` : point d'entrée des prédictions interactives
-- `params.csv` : paramètres appris, générés ou mis à jour par `train.py`
+- `params.csv` : paramètres appris, générés ou mis à jour par `train.py`# ft_linear_regression
